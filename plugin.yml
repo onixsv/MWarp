@@ -1,0 +1,8 @@
+﻿name: MWarp
+main: Mial7208\MWarp\MWarp
+api: 4.0.0
+version: 1.0.0
+author: Mial7208
+commands:
+  터치워프:
+    description: 터치워프 관련 명령어입니다.
